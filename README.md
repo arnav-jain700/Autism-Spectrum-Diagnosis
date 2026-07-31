@@ -44,6 +44,7 @@ The repository includes a modern, high-contrast web application built with Strea
 ├── app.py                  # Main Streamlit web application
 ├── header_icon.jpg         # Custom 3D clinical header branding icon
 ├── requirements.txt        # Python dependencies for deployment
+├── README.md               # GitHub repository documentation
 ├── .gitignore              # Configured Git exclusions
 ├── .streamlit/
 │   └── config.toml         # Custom Streamlit theme configuration
@@ -54,10 +55,9 @@ The repository includes a modern, high-contrast web application built with Strea
 │   └── Autism_Spectral_Disorder.ipynb # End-to-end data analytics & statistical notebook
 ├── dashboard/
 │   └── Insight_Igniters_dashboard.pbix # Power BI interactive dashboard
-├── docs/
-│   └── DATA_DICTIONARY.md  # 34-column data dictionary documentation
-└── presentations/
-    └── Insight Igniters.pptx # Executive project presentation slides
+└── docs/
+    ├── DATA_DICTIONARY.md  # 34-column data dictionary documentation
+    └── ASD Data Analytics_ Feature Engineering, Visualizations, and Statistical Framework.pdf
 ```
 
 ---
